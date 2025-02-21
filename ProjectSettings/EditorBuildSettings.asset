@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/PatchCheck.unity
+    guid: 8bb88fa667a6d3a4aa3bedb7122b860b
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/Main.unity
+    guid: 056cf73b151f14342ac8ff6dc99a99f8
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/AR.unity
+    guid: 3d32d32669a310b49ab993f64773d934
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/WorldLobby.unity
+    guid: 8a3593b0441f80845b7b99bfc684dbd2
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/MultiPlay.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/TestThrow.unity
+    guid: 8e65ebb7f68d46145904e6687b7382a5
+  - enabled: 1
+    path: Assets/Scenes/ModernScenes/OtherUserHome.unity
+    guid: 1988fffcb43bd8141932a983c3882f9a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 62a71242b8acc42e0a28634cb130d9ec,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0c5cf7a7ecf5f4e608824afd8460582d,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 78125968d6f1345e49675a59a6d6f474,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 4731e305afc66469a81fb52cb4d1e9ac, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 32a74cc3b88c1410a8e43b35b26a3abf, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fe090bb1614934f9abe10301171f6768,
+      type: 2}

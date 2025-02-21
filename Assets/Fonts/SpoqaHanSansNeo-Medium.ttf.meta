@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8b6b1ed910314ed4497884f58283e57d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spoqa Han Sans Neo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1185398a0ee6ac94a9371a77f0fcd1bd, type: 3}
+  - {fileID: 12800000, guid: b9e6483d0cfd12f4295d6ff05cb6342e, type: 3}
+  - {fileID: 12800000, guid: d9eace502da5f0f418d2186604a8523b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
